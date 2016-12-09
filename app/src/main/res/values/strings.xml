@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Procan</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="one">ACCUEIL</string>
+    <string name="two">FACEBOOK PAGE</string>
+    <string name="three">PUBLIER</string>
+    <string name="foor">A PROPOS</string>
+</resources>
